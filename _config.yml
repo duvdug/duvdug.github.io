@@ -6,19 +6,16 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Dutch Virtual Desktop User Group
 
 # Your name to show in the footer
-author: Some Person
+author: DuvDug
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Us: "aboutus"
+  Meetings: "https://www.meetup.com/Dutch-Azure-Virtual-Desktop-User-Group/"
 
 # --- Logo --- #
 
@@ -41,11 +38,9 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  meetup: https://www.meetup.com/Dutch-Azure-Virtual-Desktop-User-Group/
+  github: duvdug
+  twitter: duvddug
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -79,7 +74,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "duvdug.nl"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -100,14 +95,14 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#004589"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#004589"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
