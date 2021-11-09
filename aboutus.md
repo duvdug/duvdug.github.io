@@ -3,13 +3,15 @@ layout: page
 title: About us
 subtitle: About the Dutch Virtual Desktop Usergroup
 ---
-Hello, we are the Dutch Virtual Desktop Usergroup, aka DuvDug. 
+Hello, we are the Dutch Virtual Desktop Usergroup, aka DuvDug.
+What keeps us busy? 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Azure Virtual Desktop
+- CloudPC
+- Windows 365
+- Microsoft Endpoint Manager
 
-What else do you need?
+And all related to these components like, image management (Azure Image Builder, Packer, etc), automation, Azure DevOps, deployment.
+If you have any related topic and like to talk about it? Feel free to add a session with the form or contact one of use.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Our team
