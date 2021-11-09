@@ -19,5 +19,5 @@ body {
   overflow-wrap: break-word;
 }
 .navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
- color:  {{ site.text-col | default: "#FFFFFF" }} !important;
+  color: "#FFFFFF" !important;
 }
